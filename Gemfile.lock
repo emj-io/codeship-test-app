@@ -12,6 +12,7 @@ GEM
     rack (2.0.6)
     rack-protection (2.0.4)
       rack
+    rake (12.3.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -37,6 +38,7 @@ DEPENDENCIES
   haml
   minitest
   puma
+  rake
   sass
   sinatra
 
